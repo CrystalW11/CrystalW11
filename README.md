@@ -32,7 +32,7 @@
 **CRE Compliance Underwriter (Remote)** | **Situs AMC** | **Denver, CO** | **04/2016 – 04/2024**    
 ##### (Earned a $14/hr. pay increase, recognizing exceptional performance and compliance expertise)
 -	Achieved 99.8% accuracy in compliance reviews for underwriting, credit analysis, and loan approvals, ensuring adherence to ECOA, FCRA, UDAAP, TILA, GLBA, and other regulations.
--	C Conducted compliance reviews for 20+ loan products, identifying risks and ensuring financial reporting accuracy.
+-	Conducted compliance reviews for 20+ loan products, identifying risks and ensuring financial reporting accuracy.
 -	Validated financial transactions for compliance with ECOA, TILA, and GLBA.
 -	Investigated financial statements and assets to detect fraud, verifying that loan applications met industry lending standards (FCRA, UDAAP).
 -	Managed and monitored a $100B+ real estate portfolio, proactively identifying risks and enforcing compliance with ECOA and UDAAP.
