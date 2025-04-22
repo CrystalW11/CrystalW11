@@ -2,7 +2,7 @@
   With 20 years of experience in finance, I’ve transitioned into software development by learning three programming languages in 9 months to bridge the gap into database and analyst roles. This skillset allows me to apply my analytical background to building scalable, data-driven solutions. I’m passionate about continuous learning, coding, and wireframing, and I’m eager to leverage my experience in finance and tech to create impactful solutions. I enjoy helping others along this journey, so feel free to reach out for collaboration or mentorship.
 
 # 🚀 My Technical Skills
-  I’m currently learning ...C# amd working on websites freelance for friends in my local community to gain more experience in Web Design with front-end and back-end databases. 
+  I’m currently learning ...C# and working on websites freelance for friends in my local community to gain more experience in Web Design with front-end and back-end databases. 
 
   - **Languages & Frameworks:** Python (Flask, Django), Java (Spring Boot), JavaScript (React, Node.js, TypeScript) 
   - **Databases & Security:** SQL, MySQL, MongoDB, API Security, JWT, Bcrypt
