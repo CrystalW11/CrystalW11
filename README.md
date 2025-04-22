@@ -21,7 +21,7 @@
 -	Integrated GPS API for location-based pizza delivery and implemented form validation with hidden inputs.
 -	Developed RESTful API endpoints for order processing and customer authentication.
 
-**Easy Bay** | **Software Developer** | **https://github.com/CrystalW11/Crystal-s-Technical-Projects.git**
+**Easy Bay** | **Software Developer** | **https://github.com/CrystalW11/Easy_Bay**
 ##### An elegant online marketplace where plant enthusiasts can effortlessly browse and purchase a curated selection of premium succulent plants, fostering a seamless and enjoyable shopping experience.
 -	Engineered dynamic image hover interactions with advanced CSS techniques.
 -	Implemented cookie consent functionality to ensure GDPR compliance, leveraging JavaScript and HTTP cookies.
