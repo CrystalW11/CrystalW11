@@ -15,6 +15,11 @@
 
 # 🖥️ My Technical Projects
 
+**My Programmer Portfolio** | **Software Developer** | **https://github.com/CrystalW11/My-Programmer-Portfolio.git**
+##### A React-based portfolio showcasing skills and projects with 3D visuals and interactive UI.
+•	Used Three.js, ambient lighting, and React-Tilt for immersive design.
+•	Built responsive layout with smooth scroll and dynamic content rendering.
+
 **Pizza-Time** | **Full Stack Developer** | **Group Collaboration** | **https://github.com/CrystalW11/Pizza-Time**
 ##### An interactive web application allowing users to customize their pizza orders for delivery or carry-out, showcasing full-stack development skills and a dynamic user interface.
 •	Built secure login registration with MySQL, Flask, Bcrypt, and HTTPS.
@@ -32,7 +37,6 @@
 •	Engineered dynamic image hover interactions with advanced CSS techniques.
 •	Implemented cookie consent functionality to ensure GDPR compliance, leveraging JavaScript and HTTP cookies.
 •	Designed an intuitive UI using React and Tailwind CSS to enhance user experience. 
-
 
 # 🪄 My Professional Experience
 
