@@ -5,12 +5,19 @@
   I’m currently learning ...C# and working on websites freelance for friends in my local community to gain more experience in Web Design with front-end and back-end databases. 
 
   • **Languages & Frameworks:** Python (Flask, Django), Java (Spring Boot), JavaScript (React, Node.js, TypeScript) 
+  
   • **Databases & Security:** SQL, MySQL, MongoDB, API Security, JWT, Bcrypt
+  
   • **Cloud & DevOps:** AWS, CI/CD, Docker, Git, Agile, RESTful APIs
+  
   • **Risk & Compliance:** TRID, QM/Non-QM, OCC, FHA, VA, FNMA, FCRA, ECOA, UDAAP, GLBA, AML/BSA, Fraud Detection, Portfolio Risk Monitoring 
+  
   • **Audit & Data Analytics:** Power BI, Excel (Pivot Tables, VLOOKUP, VBA), Compliance Dashboards, Financial Modeling 
+  
   • **Compliance & Workflow Tools:** Appian, Encompass, LPS Desktop, Vendor Scape, MERS, Clarity, Acuity 
+  
   • **Security & Automation:** GDPR Compliance, Automated Risk Audits, SQL-Based Reporting, Test-Driven Development (TDD)
+  
   • **Additional Tools & Technologies:** Postman, JIRA, Kubernetes, Terraform, WebSocket’s, Tailwind CSS, Three.js
 
 # 🖥️ My Technical Projects
@@ -32,13 +39,17 @@
 **Easy Bay** | **Software Developer** | **https://github.com/CrystalW11/Easy_Bay**
 ##### An elegant online marketplace where plant enthusiasts can effortlessly browse and purchase a curated selection of premium succulent plants, fostering a seamless and enjoyable shopping experience.
 •	Engineered dynamic image hover interactions with advanced CSS techniques.
+
 •	Implemented cookie consent functionality to ensure GDPR compliance, leveraging JavaScript and HTTP cookies.
+
 •	Designed an intuitive UI using React and Tailwind CSS to enhance user experience.
 
 **Next Fix** | **Full Stack Developerv** | **https://github.com/CrystalW11/Next_Fix_Final.git**
 ##### A Dynamic social platform designed for movie enthusiasts to recommend, review, and share their favorite films with a community of like-minded users.
 •	Engineered dynamic image hover interactions with advanced CSS techniques.
+
 •	Implemented cookie consent functionality to ensure GDPR compliance, leveraging JavaScript and HTTP cookies.
+
 •	Designed an intuitive UI using React and Tailwind CSS to enhance user experience. 
 
 # 🪄 My Professional Experience
