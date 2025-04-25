@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Crystal Warmack
-  With 20 years of experience in finance, I’ve transitioned into software development by learning three programming languages in 9 months to bridge the gap into database and analyst roles. This skillset allows me to apply my analytical background to building scalable, data-driven solutions. I’m passionate about continuous learning, coding, and wireframing, and I’m eager to leverage my experience in finance and tech to create impactful solutions. I enjoy helping others along this journey, so feel free to reach out for collaboration or mentorship.
+Financial Analyst with 15+ years of experience conducting data-driven financial reviews, forecasting, and variance analysis in highly regulated environments. Proficient in financial modeling, variance analysis, and budgeting using Excel, SQL, and Power BI. Adept at delivering clear, actionable insights that support strategic decision-making, risk mitigation, and operational efficiency. Proven ability to collaborate across departments, streamline reporting, and contribute to financial planning initiatives. Seeking to leverage deep regulatory and analytical knowledge in a tech-forward environment to drive growth and performance.
 
 # CORE COMPETENCIES
 Financial Modeling | Forecasting | Budgeting | FP&A | SQL | Power BI | Variance Analysis | Regulatory Compliance | Risk Assessment
