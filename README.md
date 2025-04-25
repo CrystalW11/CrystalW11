@@ -20,32 +20,21 @@ Financial Modeling | Forecasting | Budgeting | FP&A | SQL | Power BI | Variance 
 # 🖥️ My Technical Projects
 
 **My Programmer Portfolio** | **Software Developer** | **https://github.com/CrystalW11/My-Programmer-Portfolio.git**
-##### A React-based portfolio showcasing skills and projects with 3D visuals and interactive UI.
--	Used Three.js, ambient lighting, and React-Tilt for immersive design.
--	Built responsive layout with smooth scroll and dynamic content rendering.
+##### A React-based portfolio highlighting development projects through interactive UI components and 3D visuals.
+-	Implemented custom visuals using Three.js and ambient lighting to enhance front-end design.
+-	Built a responsive layout with React and integrated smooth scroll functionality.
+-	Focused on accessibility and maintainability using component-based architecture.
 
 **Pizza-Time** | **Full Stack Developer** | **Group Collaboration** | **https://github.com/CrystalW11/Pizza-Time**
-##### An interactive web application allowing users to customize their pizza orders for delivery or carry-out, showcasing full-stack development skills and a dynamic user interface.
--	Built secure login registration with MySQL, Flask, Bcrypt, and HTTPS.
--	Integrated GPS API for location-based pizza delivery and implemented form validation with hidden inputs.
--	Developed RESTful API endpoints for order processing and customer authentication.
-
-**Easy Bay** | **Software Developer** | **https://github.com/CrystalW11/Easy_Bay**
-##### An elegant online marketplace where plant enthusiasts can effortlessly browse and purchase a curated selection of premium succulent plants, fostering a seamless and enjoyable shopping experience.
--	Engineered dynamic image hover interactions with advanced CSS techniques.
--	Implemented cookie consent functionality to ensure GDPR compliance, leveraging JavaScript and HTTP cookies.
--	Designed an intuitive UI using React and Tailwind CSS to enhance user experience.
-
-**Next Fix** | **Full Stack Developerv** | **https://github.com/CrystalW11/Next_Fix_Final.git**
-##### A Dynamic social platform designed for movie enthusiasts to recommend, review, and share their favorite films with a community of like-minded users.
--	Engineered dynamic image hover interactions with advanced CSS techniques.
--	Implemented cookie consent functionality to ensure GDPR compliance, leveraging JavaScript and HTTP cookies.
--	Designed an intuitive UI using React and Tailwind CSS to enhance user experience. 
+##### An end-to-end ordering platform for pizza customization, featuring secure login, real-time updates, and GPS-enabled delivery. 
+-	Built authentication using Flask, MySQL, Bcrypt, and HTTPS for secure data handling. 
+-	Integrated GPS API for location-based services and added validation for form inputs. 
+-	Developed RESTful API endpoints to handle orders, user sessions, and database transactions.
 
 # My Professional Experience
 
 **CRE Compliance Underwriter (Remote)** | **Situs AMC** | **Denver, CO** | **04/2016 – 04/2024**    
-##### (Earned a $14/hr. pay increase, recognizing exceptional performance and compliance expertise)
+##### (Earned a $14/hr. pay increase, recognizing exceptional performance and compliance acumen)
 -	Conducted detailed financial modeling and variance analysis of borrower portfolios and tax documents (1040s, 1120s, 1065s), contributing to risk-adjusted decision-making and improved forecasting accuracy.
 -	Reviewed complex loan products for compliance with QM, TRID, HARP, FHA, VA, FNMA, FHLMC, USDA, Non-QM, and HECM standards, identifying gaps and potential fraud indicators.
 -	Partnered with product and audit teams to build automated workflows that improved the speed and accuracy of compliance reviews.
