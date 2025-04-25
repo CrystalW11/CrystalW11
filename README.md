@@ -1,6 +1,10 @@
 # 👋 Hi, I’m Crystal Warmack
   With 20 years of experience in finance, I’ve transitioned into software development by learning three programming languages in 9 months to bridge the gap into database and analyst roles. This skillset allows me to apply my analytical background to building scalable, data-driven solutions. I’m passionate about continuous learning, coding, and wireframing, and I’m eager to leverage my experience in finance and tech to create impactful solutions. I enjoy helping others along this journey, so feel free to reach out for collaboration or mentorship.
 
+# CORE COMPETENCIES
+Financial Modeling | Forecasting | Budgeting | FP&A | SQL | Power BI | Variance Analysis | Regulatory Compliance | Risk Assessment
+
+
 # 🚀 My Technical Skills
   I’m currently learning ...C# and working on websites freelance for friends in my local community to gain more experience in Web Design with front-end and back-end databases. 
 
@@ -42,24 +46,22 @@
 
 **CRE Compliance Underwriter (Remote)** | **Situs AMC** | **Denver, CO** | **04/2016 – 04/2024**    
 ##### (Earned a $14/hr. pay increase, recognizing exceptional performance and compliance expertise)
--	Achieved 99.8% accuracy in compliance reviews for underwriting, credit analysis, and loan approvals, ensuring adherence to ECOA, FCRA, UDAAP, TILA, GLBA, and other regulations.
--	Conducted compliance reviews for 20+ loan products, identifying risks and ensuring financial reporting accuracy.
--	Validated financial transactions for compliance with ECOA, TILA, and GLBA.
--	Investigated financial statements and assets to detect fraud, verifying that loan applications met industry lending standards (FCRA, UDAAP).
--	Managed and monitored a $100B+ real estate portfolio, proactively identifying risks and enforcing compliance with ECOA and UDAAP.
+-	Conducted detailed financial modeling and variance analysis of borrower portfolios and tax documents (1040s, 1120s, 1065s), contributing to risk-adjusted decision-making and improved forecasting accuracy.
+-	Reviewed complex loan products for compliance with QM, TRID, HARP, FHA, VA, FNMA, FHLMC, USDA, Non-QM, and HECM standards, identifying gaps and potential fraud indicators.
+-	Partnered with product and audit teams to build automated workflows that improved the speed and accuracy of compliance reviews.
 -	Assessed creditworthiness and financial risk, reducing fraud and minimizing losses through detailed analysis of financial data.
--	Streamlined loan reviews with a JavaScript app, enabling real-time validation and ensuring TILA, FCRA compliance.
+-	Supported compliance-driven budget initiatives by validating expenses, identifying redundant workflows, and streamlining cost-heavy processes.
+
 
 
 **QC Default Foreclosure Analyst** | **Clayton Holdings, LLC** | **Denver, CO** | **08/2011 - 07/2013** 
 ##### (Promoted to QC Analyst within six weeks for exceptional accuracy and performance)
--	Conducted compliance audits on defaulted loans, foreclosures, and loan modifications to ensure adherence to federal regulations.
--	Performed quality control audits for foreclosures, bankruptcies, and loan modifications, identifying Robo-signing issues and enforcing compliance under Consent Order regulations.
--	Validated mortgage assignments and loan transfers, ensuring accuracy and compliance with industry standards.
--	Analyzed large datasets with Excel (pivot tables, VLOOKUP) to enhance audit reporting and resolve discrepancies.
--	Developed audit templates for bankruptcy payments, judgments, and financial disputes, helping mitigate compliance risks.
+-	Audited mortgage assignments, title transfers, and defaulted loans to verify accuracy, reduce exposure, and meet OCC and investor standards.
+-	Identified and escalated Robo-signing and documentation inconsistencies, ensuring remediation aligned with Consent Order guidelines.
+-	Analyzed large datasets related to default servicing activity to detect discrepancies, verify financial compliance, and support risk mitigation.
+-	Developed standardized audit templates for complex scenarios including bankruptcy timelines, modification packages, and court filings.
 -	Collaborated with cross-functional teams to resolve audit findings and implement corrective action plans, enhancing internal controls and ensuring timely regulatory compliance.
--	Assisted in training and onboarding 30 new hires, mentoring them on foreclosure compliance standards, audit procedures, and regulatory guidelines, ensuring accuracy in quality control reviews.
+-	Trained 30+ new analysts on tools and techniques for accurate financial reporting and issue escalation.
 
 
 
