@@ -34,7 +34,7 @@ Data Analyst with 15+ years of experience interpreting and analyzing financial a
 -	Conducted variance analysis and data audits to support budgeting and reduce unnecessary operational spending.
 -	Supported compliance-driven budget initiatives by validating expenses, identifying redundant workflows, and streamlining cost-heavy processes.
 
-  #### Key Acheivements
+Key Acheivements
 - Earned a $14/hr. raise for top-tier data accuracy, performance, and compliance execution.
 - Automated critical data workflows, improving compliance review time by 30% and reducing manual error.
 -	Identified fraud trends using custom Excel dashboards, mitigating risk across high-value loan portfolios.
