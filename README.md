@@ -1,21 +1,15 @@
 # 👋 Hi, I’m Crystal Warmack
-Financial Analyst with 15+ years of experience conducting data-driven financial reviews, forecasting, and variance analysis in highly regulated environments. Proficient in financial modeling, variance analysis, and budgeting using Excel, SQL, and Power BI. Adept at delivering clear, actionable insights that support strategic decision-making, risk mitigation, and operational efficiency. Proven ability to collaborate across departments, streamline reporting, and contribute to financial planning initiatives. Seeking to leverage deep regulatory and analytical knowledge in a tech-forward environment to drive growth and performance.
-
-# CORE COMPETENCIES
-Financial Modeling | Forecasting | Budgeting | FP&A | SQL | Power BI | Variance Analysis | Regulatory Compliance | Risk Assessment
+Data Analyst with 15+ years of experience interpreting and analyzing financial and operational data to support business strategy, compliance, and risk management in regulated environments. Proficient in SQL, Excel, and Python for data querying, automation, and modeling. Experienced in developing reports, building dashboards, and identifying trends that improve forecasting, reduce risk, and increase operational efficiency. Known for cross-functional collaboration with audit, compliance, and engineering teams to optimize reporting systems and deliver actionable insights. Seeking to bring analytical depth and regulatory knowledge to a data-centric organization.
 
 
 # 🚀 My Technical Skills
   I’m currently learning ...C# and working on websites freelance for friends in my local community to gain more experience in Web Design with front-end and back-end databases. 
 
-  - **Languages & Frameworks:** Python (Flask, Django), Java (Spring Boot), JavaScript (React, Node.js, TypeScript) 
-  - **Databases & Security:** SQL, MySQL, MongoDB, API Security, JWT, Bcrypt
+  - **Analytics & Data Strategy:** Excel (Advanced Formulas, Pivot Tables, VBA), SQL, Python (Pandas, NumPy, matplotlib), Tableau (basic), Appian, Encompass
+  - **Tools & Platforms:** SQL, MySQL, MongoDB, API Security, JWT, Bcrypt
   -  **Cloud & DevOps:** AWS, CI/CD, Docker, Git, Agile, RESTful APIs
-  -  **Risk & Compliance:** TRID, QM/Non-QM, OCC, FHA, VA, FNMA, FCRA, ECOA, UDAAP, GLBA, AML/BSA, Fraud Detection, Portfolio Risk Monitoring
-  -  **Audit & Data Analytics:** Power BI, Excel (Pivot Tables, VLOOKUP, VBA), Compliance Dashboards, Financial Modeling
-  -  **Compliance & Workflow Tools:** Appian, Encompass, LPS Desktop, Vendor Scape, MERS, Clarity, Acuity
-  -  **Security & Automation:** GDPR Compliance, Automated Risk Audits, SQL-Based Reporting, Test-Driven Development (TDD)
-  -  **Additional Tools & Technologies:** Postman, JIRA, Kubernetes, Terraform, WebSocket’s, Tailwind CSS, Three.js
+  -  **Compliance & Risk:** TRID, QM/Non-QM, OCC, FHA, VA, FNMA, FCRA, ECOA, UDAAP, GLBA, AML/BSA, Fraud Detection, Portfolio Risk Monitoring
+  -  **Soft Skills:** Cross-Functional Collaboration, Analytical Thinking, Process Optimization, Attention to Detail
 
 # 🖥️ My Technical Projects
 
@@ -33,24 +27,31 @@ Financial Modeling | Forecasting | Budgeting | FP&A | SQL | Power BI | Variance 
 
 # My Professional Experience
 
-**CRE Compliance Underwriter (Remote)** | **Situs AMC** | **Denver, CO** | **04/2016 – 04/2024**    
-##### (Earned a $14/hr. pay increase, recognizing exceptional performance and compliance acumen)
--	Conducted detailed financial modeling and variance analysis of borrower portfolios and tax documents (1040s, 1120s, 1065s), contributing to risk-adjusted decision-making and improved forecasting accuracy.
--	Reviewed complex loan products for compliance with QM, TRID, HARP, FHA, VA, FNMA, FHLMC, USDA, Non-QM, and HECM standards, identifying gaps and potential fraud indicators.
--	Partnered with product and audit teams to build automated workflows that improved the speed and accuracy of compliance reviews.
--	Assessed creditworthiness and financial risk, reducing fraud and minimizing losses through detailed analysis of financial data.
+**Data Analyst – CRE Compliance & Risk** | **Situs AMC** | **Denver, CO** | **04/2016 – 04/2024**    
+-	Analyzed borrower financials and large-scale loan data (1040s, 1120s, 1065s) to uncover trends and inform credit risk assessments and forecasting models.
+-	Built and optimized SQL queries and Excel-based dashboards to track anomalies and monitor fraud across $100B+ real estate portfolios.
+-	Evaluated regulatory compliance on mortgage data (FHA, VA, TRID, FNMA, HARP), identifying data gaps and reporting discrepancies.
+-	Conducted variance analysis and data audits to support budgeting and reduce unnecessary operational spending.
 -	Supported compliance-driven budget initiatives by validating expenses, identifying redundant workflows, and streamlining cost-heavy processes.
 
+  #### Key Acheivements
+- Earned a $14/hr. raise for top-tier data accuracy, performance, and compliance execution.
+- Automated critical data workflows, improving compliance review time by 30% and reducing manual error.
+-	Identified fraud trends using custom Excel dashboards, mitigating risk across high-value loan portfolios.
 
 
-**QC Default Foreclosure Analyst** | **Clayton Holdings, LLC** | **Denver, CO** | **08/2011 - 07/2013** 
-##### (Promoted to QC Analyst within six weeks for exceptional accuracy and performance)
--	Audited mortgage assignments, title transfers, and defaulted loans to verify accuracy, reduce exposure, and meet OCC and investor standards.
--	Identified and escalated Robo-signing and documentation inconsistencies, ensuring remediation aligned with Consent Order guidelines.
--	Analyzed large datasets related to default servicing activity to detect discrepancies, verify financial compliance, and support risk mitigation.
--	Developed standardized audit templates for complex scenarios including bankruptcy timelines, modification packages, and court filings.
--	Collaborated with cross-functional teams to resolve audit findings and implement corrective action plans, enhancing internal controls and ensuring timely regulatory compliance.
--	Trained 30+ new analysts on tools and techniques for accurate financial reporting and issue escalation.
+
+
+**Data & Audit Analyst – Loan Compliance** | **Clayton Holdings, LLC** | **Denver, CO** | **08/2011 - 07/2013** 
+-	Audited servicing data and foreclosure records to ensure alignment with OCC and investor guidelines, escalating anomalies for remediation.
+-	Analyzed servicing datasets to identify documentation inconsistencies and timeline issues related to modifications, bankruptcies, and title transfers.
+-	Built standardized audit templates for financial reporting across multiple loan products and collaborated with cross-functional teams to implement process improvements.
+-	Delivered data insights to risk teams and participated in data quality projects that reduced inconsistencies in regulatory reporting.
+
+Key Achievements:
+-	Promoted to QC Analyst within 6 weeks at Clayton Holdings due to top-tier audit quality.
+-	Trained over 30 analysts in compliance protocols, boosting team efficiency and audit readiness.
+
 
 
 
