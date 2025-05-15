@@ -54,7 +54,7 @@ Key Achievements:
 -	Integrated GPS API for location-based services and added validation for form inputs. 
 -	Developed RESTful API endpoints to handle orders, user sessions, and database transactions.
 
-# ⚡ Fun fact: ...I love to play music, do coding and am family oriented.
+# ⚡ Fun fact: ...I love to do photography. Find my work on linkedin.
 
 <!---
 CrystalW11/CrystalW11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
