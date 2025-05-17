@@ -1,7 +1,6 @@
 # 👋 Hi, I’m Crystal Warmack
 Compliance and Risk Data Analyst with 15+ years of experience analyzing financial and operational data to support compliance, risk management, and business strategy in regulated environments. Proficient in SQL, Excel, and Python for data querying, automation, and modeling. Experienced in developing reports, building dashboards, and identifying trends that improve forecasting, reduce risk, and increase operational efficiency. Known for cross-functional collaboration with audit, compliance, and engineering teams to optimize reporting systems and deliver actionable insights. Looking to leverage deep analytics and regulatory expertise to drive data-centric decision-making.
 
-
 # 🚀 My Technical Skills
   I’m currently learning ...C# and working on websites freelance for friends in my local community to gain more experience in Web Design with front-end and back-end databases. 
 
