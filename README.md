@@ -23,6 +23,7 @@ Data Analyst with over 15 years of experience in transforming financial and oper
 -	Improved data accuracy through automation and anomaly detection. 
 -	Executed analysis of variances and trends to minimize operational inefficiencies. 
 -	Managed datasets adhering to FHA, VA, TRID, HARP, FNMA, and OCC standards to ensure precise reporting.
+
 ***Key Achievements:***
 -	Achieved reduction in data error rates during compliance reviews by utilizing automation and custom SQL queries.
 -	Exposed multi-million-dollar fraud through innovative risk-scoring approaches.
@@ -36,15 +37,18 @@ Data Analyst with over 15 years of experience in transforming financial and oper
 •	Analyzed servicing datasets to identify documentation inconsistencies and timeline issues related to modifications, bankruptcies, and title transfers.
 •	Developed standardized audit templates for financial reporting across diverse loan products. 
 •	Provided actionable data insights to risk teams to enhance decision-making processes. 
+
 ***Key Achievements:***
 •	Recognized for exceptional audit quality with rapid promotion to QC Analyst.
 
 # CERTIFICATIONS & COURSEWORK
 **Colorado Technical University** | Coding Dojo Full Stack Certification | 01/2024 – 09/2024
+
 **Completed: September 2024**
 Technologies: Python, Java, JavaScript, Vue.js, React | Software Developer Certified
 -	Key Coursework: Software Engineering Principles, Building Real-Time REST APIs With Spring Boot, Java 17 Master Class
 -	Completed three comprehensive Full-Stack Web Development Certifications, covering front-end and back-end technologies with Vue.js and React
+
 **Ongoing Learning:**
 **C# Programming | FreeCodeCamp (Self-Paced)**
 Applying object-oriented principles to financial modeling and automation.
@@ -55,6 +59,7 @@ Applying object-oriented principles to financial modeling and automation.
 ***React-based personal website showcasing interactive UI projects and data integration work.***
 - Designed front-end components with React, integrating 3D visuals using Three.js.
 - Built responsive layouts and applied accessibility best practices.
+
 ***Key Achievements:***
 - Integrated 3D graphics into a React portfolio using Three.js, enhancing user engagement with interactive, real-time visual elements.
 
@@ -62,6 +67,7 @@ Applying object-oriented principles to financial modeling and automation.
 ***Full-stack app with data handling and delivery tracking for customizable orders.***
 • Build RESTful APIs using Flask and MySQL for order management.
 • Integrated GPS API for real-time location and analytics features.
+
 ***Key Achievements:***
 - Developed full-stack software projects including a GPS-enabled delivery app and an interactive React-based portfolio site.
 
