@@ -23,7 +23,7 @@ Data Analyst with over 15 years of experience in transforming financial and oper
 -	Improved data accuracy through automation and anomaly detection. 
 -	Executed analysis of variances and trends to minimize operational inefficiencies. 
 -	Managed datasets adhering to FHA, VA, TRID, HARP, FNMA, and OCC standards to ensure precise reporting.
-Key Achievements:
+***Key Achievements:***
 -	Achieved reduction in data error rates during compliance reviews by utilizing automation and custom SQL queries.
 -	Exposed multi-million-dollar fraud through innovative risk-scoring approaches.
 -	Commended for fostering teamwork and optimizing processes using data insights.
@@ -36,7 +36,7 @@ Key Achievements:
 •	Analyzed servicing datasets to identify documentation inconsistencies and timeline issues related to modifications, bankruptcies, and title transfers.
 •	Developed standardized audit templates for financial reporting across diverse loan products. 
 •	Provided actionable data insights to risk teams to enhance decision-making processes. 
-Key Achievements:
+***Key Achievements:***
 •	Recognized for exceptional audit quality with rapid promotion to QC Analyst.
 
 # CERTIFICATIONS & COURSEWORK
@@ -55,14 +55,14 @@ Applying object-oriented principles to financial modeling and automation.
 ***React-based personal website showcasing interactive UI projects and data integration work.***
 - Designed front-end components with React, integrating 3D visuals using Three.js.
 - Built responsive layouts and applied accessibility best practices.
-Key Achievements:
+***Key Achievements:***
 - Integrated 3D graphics into a React portfolio using Three.js, enhancing user engagement with interactive, real-time visual elements.
 
 **Pizza-Time** | **Full Stack Developer** | **Group Collaboration** | **https://github.com/CrystalW11/Pizza-Time**
 ***Full-stack app with data handling and delivery tracking for customizable orders.***
 • Build RESTful APIs using Flask and MySQL for order management.
 • Integrated GPS API for real-time location and analytics features.
-Key Achievements:
+***Key Achievements:***
 - Developed full-stack software projects including a GPS-enabled delivery app and an interactive React-based portfolio site.
 
 # ⚡ Fun fact: ...I love to do photography. Find my work on linkedin.
