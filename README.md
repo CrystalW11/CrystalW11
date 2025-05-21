@@ -39,7 +39,7 @@ Data Analyst with over 15 years of experience in transforming financial and oper
 •	Provided actionable data insights to risk teams to enhance decision-making processes. 
 
 ***Key Achievements:***
-•	Recognized for exceptional audit quality with rapid promotion to QC Analyst.
+-	Recognized for exceptional audit quality with rapid promotion to QC Analyst.
 
 # CERTIFICATIONS & COURSEWORK
 **Colorado Technical University** | Coding Dojo Full Stack Certification | 01/2024 – 09/2024
@@ -51,6 +51,7 @@ Technologies: Python, Java, JavaScript, Vue.js, React | Software Developer Certi
 
 **Ongoing Learning:**
 **C# Programming | FreeCodeCamp (Self-Paced)**
+
 Applying object-oriented principles to financial modeling and automation.
 
 # 🖥️ My Technical Projects
@@ -64,9 +65,10 @@ Applying object-oriented principles to financial modeling and automation.
 - Integrated 3D graphics into a React portfolio using Three.js, enhancing user engagement with interactive, real-time visual elements.
 
 **Pizza-Time** | **Full Stack Developer** | **Group Collaboration** | **https://github.com/CrystalW11/Pizza-Time**
+
 ***Full-stack app with data handling and delivery tracking for customizable orders.***
-• Build RESTful APIs using Flask and MySQL for order management.
-• Integrated GPS API for real-time location and analytics features.
+- Build RESTful APIs using Flask and MySQL for order management.
+- Integrated GPS API for real-time location and analytics features.
 
 ***Key Achievements:***
 - Developed full-stack software projects including a GPS-enabled delivery app and an interactive React-based portfolio site.
