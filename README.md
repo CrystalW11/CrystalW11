@@ -1,57 +1,69 @@
 # 👋 Hi, I’m Crystal Warmack
-Compliance and Risk Data Analyst with 15+ years of experience analyzing financial and operational data to support compliance, risk management, and business strategy in regulated environments. Proficient in SQL, Excel, and Python for data querying, automation, and modeling. Experienced in developing reports, building dashboards, and identifying trends that improve forecasting, reduce risk, and increase operational efficiency. Known for cross-functional collaboration with audit, compliance, and engineering teams to optimize reporting systems and deliver actionable insights. Looking to leverage deep analytics and regulatory expertise to drive data-centric decision-making.
+Data Analyst with over 15 years of experience in transforming financial and operational data into actionable insights that support strategic decision-making. Proficient in SQL, Excel, and Python for data querying, automation, and modeling, with a strong track record in dashboard reporting and trend analysis. Demonstrated ability to collaborate effectively with audit, compliance, and engineering teams to ensure data accuracy and regulatory alignment. Aiming to apply extensive analytics expertise in a data-centric role to drive organizational success. 
 
 # 🚀 My Technical Skills
   I’m currently learning ...C# and working on websites freelance for friends in my local community to gain more experience in Web Design with front-end and back-end databases. 
 
-  - **Analytics & Data Strategy:** Excel (Advanced Formulas, Pivot Tables, VBA), SQL, Python (Pandas, NumPy, matplotlib), Tableau (basic), Appian, Encompass
-  - **Tools & Platforms:** SQL, MySQL, MongoDB, API Security, JWT, Bcrypt
-  -  **Cloud & DevOps:** AWS, CI/CD, Docker, Git, Agile, RESTful APIs
+  - **Analytics & Data Strategy:** Data Cleaning & Transformation, Financial Modeling, Forecasting, Budgeting, Variance Analysis, ROI Analysis, KPI Reporting, Data Visualization, Data Audits, Dashboard Reporting 
+  - **Tools & Platforms:** Excel (Advanced Formulas, PivotTables, VBA), SQL (PostgreSQL, MySQL), Python (Pandas, NumPy), Flask, Git, Appian, Encompass
+  - ***Currently Upskilling:*** Tableau, Power BI, matplotlib, seaborn
   -  **Compliance & Risk:** AML/BSA, FCRA, ECOA, TRID, GLBA, OCC Guidelines, FHA, VA, Non-QM Loan Review
-  -  **Strengths:** Cross-Functional Collaboration, Analytical Thinking, Process Optimization, Audit Readiness
+  -  **Strengths:** Cross-Functional Collaboration, Analytical Thinking, Risk Analysis, Process Optimization, Audit Readiness, Business Requirements Gathering
 
 # My Professional Experience
 
-**Data Analyst – CRE Compliance & Risk** | **Situs AMC** | **Denver, CO** | **04/2016 – 04/2024**    
--	Analyzed borrower financials and large-scale loan data (1040s, 1120s, 1065s) to uncover trends and inform credit risk assessments and forecasting models.
--	Built and optimized SQL queries and Excel-based dashboards to track anomalies and monitor fraud across $100B+ real estate portfolios.
--	Evaluated regulatory compliance on mortgage data (FHA, VA, TRID, FNMA, HARP), identifying data gaps and reporting discrepancies.
--	Conducted variance analysis and data audits to support budgeting and reduce unnecessary operational spending.
-
-Key Acheivements
-- Automated workflows, improving compliance review time by 30%.
-- Identified fraud trends, mitigating risk across high-value loan portfolios.
--	Delivered top-tier performance and data accuracy, resulting in recognition for outstanding contributions.
-
-**Full-time Parenting** | **07/2013 – 04/2016**
-During this time, I remained engaged in continuous learning and began developing technical skills in Python, SQL, and web development to re-enter a data-driven role.
-
-
-
-**Data & Audit Analyst – Loan Compliance** | **Clayton Holdings, LLC** | **Denver, CO** | **08/2011 - 07/2013** 
--	Audited servicing data and foreclosure records to ensure alignment with OCC and investor guidelines, escalating anomalies for remediation.
--	Analyzed servicing datasets to identify documentation inconsistencies and timeline issues related to modifications, bankruptcies, and title transfers.
--	Built standardized audit templates for financial reporting across multiple loan products and collaborated with cross-functional teams to implement process improvements.
--	Delivered data insights to risk teams and participated in data quality projects that reduced inconsistencies in regulatory reporting.
-
+**Independent Study and Technical Training** | 01/2024 to 09/2024
+-	Engaged in independent study of Python, SQL, and web development to re-enter a data-centric profession.
+-	Executed household duties alongside dedicated technical upskilling using various online resources.
+-	Enrolled in coding bootcamp to further expertise.
+  
+**Data Analyst and Risk Specialist** | **Situs AMC** | Denver, CO | 04/2016 – 04/2024    
+-	Analyzed data to detect risk trends, anomalies, and fraudulent activities.
+-	Utilized Excel VBA and Tableau to build dashboards for monitoring real estate portfolio performance and compliance.
+-	Improved data accuracy through automation and anomaly detection. 
+-	Executed analysis of variances and trends to minimize operational inefficiencies. 
+-	Managed datasets adhering to FHA, VA, TRID, HARP, FNMA, and OCC standards to ensure precise reporting.
 Key Achievements:
--	Promoted to QC Analyst within 6 weeks at Clayton Holdings due to top-tier audit quality.
--	Trained over 30 analysts in compliance protocols, boosting team efficiency and audit readiness.
+-	Achieved reduction in data error rates during compliance reviews by utilizing automation and custom SQL queries.
+-	Exposed multi-million-dollar fraud through innovative risk-scoring approaches.
+-	Commended for fostering teamwork and optimizing processes using data insights.
 
+**Career Break** | **Mom** | 06/2013 to 03/2016
+-	Took a career break to establish a family.
+
+
+**Data & Audit Analyst and Loan Compliance** | **Clayton Holdings, LLC** | **Denver, CO** | **08/2011 - 07/2013** 
+•	Analyzed servicing datasets to identify documentation inconsistencies and timeline issues related to modifications, bankruptcies, and title transfers.
+•	Developed standardized audit templates for financial reporting across diverse loan products. 
+•	Provided actionable data insights to risk teams to enhance decision-making processes. 
+Key Achievements:
+•	Recognized for exceptional audit quality with rapid promotion to QC Analyst.
+
+# CERTIFICATIONS & COURSEWORK
+**Colorado Technical University** | Coding Dojo Full Stack Certification | 01/2024 – 09/2024
+**Completed: September 2024**
+Technologies: Python, Java, JavaScript, Vue.js, React | Software Developer Certified
+-	Key Coursework: Software Engineering Principles, Building Real-Time REST APIs With Spring Boot, Java 17 Master Class
+-	Completed three comprehensive Full-Stack Web Development Certifications, covering front-end and back-end technologies with Vue.js and React
+**Ongoing Learning:**
+**C# Programming | FreeCodeCamp (Self-Paced)**
+Applying object-oriented principles to financial modeling and automation.
 
 # 🖥️ My Technical Projects
 
 **My Programmer Portfolio** | **Software Developer** | **https://github.com/CrystalW11/My-Programmer-Portfolio.git**
-##### A React-based portfolio highlighting development projects through interactive UI components and 3D visuals.
--	Implemented custom visuals using Three.js and ambient lighting to enhance front-end design.
--	Built a responsive layout with React and integrated smooth scroll functionality.
--	Focused on accessibility and maintainability using component-based architecture.
+***React-based personal website showcasing interactive UI projects and data integration work.***
+- Designed front-end components with React, integrating 3D visuals using Three.js.
+- Built responsive layouts and applied accessibility best practices.
+Key Achievements:
+- Integrated 3D graphics into a React portfolio using Three.js, enhancing user engagement with interactive, real-time visual elements.
 
 **Pizza-Time** | **Full Stack Developer** | **Group Collaboration** | **https://github.com/CrystalW11/Pizza-Time**
-##### An end-to-end ordering platform for pizza customization, featuring secure login, real-time updates, and GPS-enabled delivery. 
--	Built authentication using Flask, MySQL, Bcrypt, and HTTPS for secure data handling. 
--	Integrated GPS API for location-based services and added validation for form inputs. 
--	Developed RESTful API endpoints to handle orders, user sessions, and database transactions.
+***Full-stack app with data handling and delivery tracking for customizable orders.***
+• Build RESTful APIs using Flask and MySQL for order management.
+• Integrated GPS API for real-time location and analytics features.
+Key Achievements:
+- Developed full-stack software projects including a GPS-enabled delivery app and an interactive React-based portfolio site.
 
 # ⚡ Fun fact: ...I love to do photography. Find my work on linkedin.
 
