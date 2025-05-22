@@ -34,7 +34,7 @@ Data Analyst and Compliance Specialist with over 15 years of experience transfor
 -	Took a career break to establish a family.
 
 
-**Data & Audit Analyst and Loan Compliance** | **Clayton Holdings, LLC** | **Denver, CO** | **08/2011 - 07/2013** 
+**Data & Audit Analyst and Loan Compliance** | **Clayton Holdings, LLC** | **Remote** | **08/2011 - 07/2013** 
 - Audited bankruptcy records to ensure pay histories and required dates followed both state and federal guidelines.
 - Utilized MySQL to analyze servicing pay histories, identifying discrepancies and reviewing code integrity
 during servicing payment audits.
