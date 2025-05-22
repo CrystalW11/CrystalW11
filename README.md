@@ -66,6 +66,7 @@ Applying object-oriented principles to financial modeling and automation.
 # 🖥️ My Technical Projects
 
 **My Programmer Portfolio** | **Software Developer** | **https://github.com/CrystalW11/My-Programmer-Portfolio.git**
+
 ***React-based personal website showcasing interactive UI projects and data integration work.***
 - Designed front-end components with React, integrating 3D visuals using Three.js.
 - Built responsive layouts and applied accessibility best practices.
