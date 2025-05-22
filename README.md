@@ -18,7 +18,7 @@ Data Analyst and Compliance Specialist with over 15 years of experience transfor
 -	Executed household duties alongside dedicated technical upskilling using various online resources.
 -	Enrolled in coding bootcamp to further my skills.
   
-**Data Analyst and Risk Specialist** | **Situs AMC** | Denver, CO | 04/2016 – 04/2024    
+**Data Analyst and Risk Specialist** | **Situs AMC** | Remote | 04/2016 – 04/2024    
 - Analyzed large datasets to identify risk trends, anomalies, and signs of fraud within residential loan portfolios.
 - Automated compliance reporting with Excel VBA and Tableau, cutting manual errors by 30% and reducing report turnaround time by 25%, enabling faster regulatory decision-making.
 - Conducted variance and trend analysis to improve process efficiency and ensure compliance with FHA, VA, TRID, FNMA, HARP, and OCC regulations.
@@ -34,7 +34,7 @@ Data Analyst and Compliance Specialist with over 15 years of experience transfor
 -	Took a career break to establish a family.
 
 
-**Data & Audit Analyst and Loan Compliance** | **Clayton Holdings, LLC** | **Remote** | **08/2011 - 07/2013** 
+**Data & Audit Analyst and Loan Compliance** | **Clayton Holdings, LLC** | Denver, CO | **08/2011 - 07/2013** 
 - Audited bankruptcy records to ensure pay histories and required dates followed both state and federal guidelines.
 - Utilized MySQL to analyze servicing pay histories, identifying discrepancies and reviewing code integrity
 during servicing payment audits.
