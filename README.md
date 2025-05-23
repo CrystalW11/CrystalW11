@@ -60,6 +60,10 @@ Technologies: Python, Java, JavaScript, Vue.js, React | Software Developer Certi
 
 **Ongoing Learning:**
 **C# Programming | FreeCodeCamp (Self-Paced)**
+**Business Analysis Foundations** – LinkedIn Learning (Mar 2025)
+**Investing in Human Skills in the Age of AI** – LinkedIn Learning (Apr 2025)
+**Microsoft Security Essentials: Concepts & AI Protections** – LinkedIn Learning (May 2025)
+**Memory Boosting Techniques** – LinkedIn Learning (Mar 2025)
 
 Applying object-oriented principles to financial modeling and automation.
 
