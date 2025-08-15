@@ -64,6 +64,15 @@ Technologies: Python, Java, JavaScript, Vue.js, React | Software Developer Certi
 **Investing in Human Skills in the Age of AI** – LinkedIn Learning (Apr 2025)
 **Microsoft Security Essentials: Concepts & AI Protections** – LinkedIn Learning (May 2025)
 **Memory Boosting Techniques** – LinkedIn Learning (Mar 2025)
+**CSS: Print Style Sheets** – LinkedIn Learning (Mar 2025)
+**Excel: Filtering Data for Beginners** – LinkedIn Learning (Mar 2025)
+**Power BI Essential Training (2022)** – LinkedIn Learning (Mar 2025)
+**SQL for Data Analysis** – LinkedIn Learning (Mar 2025)
+**Tableau for Climate Professionals** – LinkedIn Learning (Mar 2025)
+**Microsoft Excel 101** – www.eduta.org (August 2025)
+**ChatGPT** – www.eduta.org (August 2025)
+**Business Intelligence: Turn Data into Smart Decisions** – www.eduta.org (August 2025)
+
 
 Applying object-oriented principles to financial modeling and automation.
 
