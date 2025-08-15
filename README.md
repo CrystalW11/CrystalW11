@@ -13,12 +13,12 @@ Data Analyst and Compliance Specialist with over 15 years of experience transfor
 
 # My Professional Experience
 
-**Independent Study and Technical Training** | 01/2024 to 09/2024
+**Independent Study and Technical Training** | ***01/2024 to 09/2024***
 -	Engaged in independent study of Python, SQL, and web development to re-enter a data-centric profession.
 -	Executed household duties alongside dedicated technical upskilling using various online resources.
 -	Enrolled in coding bootcamp to further my skills.
   
-**Data Analyst and Risk Specialist** | **Situs AMC** | Remote | 04/2016 – 04/2024    
+**Data Analyst and Risk Specialist** | **Situs AMC** | Remote | ***04/2016 – 04/2024***    
 - Analyzed large datasets to identify risk trends, anomalies, and signs of fraud within residential loan portfolios.
 - Automated compliance reporting with Excel VBA and Tableau, cutting manual errors by 30% and reducing report turnaround time by 25%, enabling faster regulatory decision-making.
 - Conducted variance and trend analysis to improve process efficiency and ensure compliance with FHA, VA, TRID, FNMA, HARP, and OCC regulations.
@@ -30,11 +30,11 @@ Data Analyst and Compliance Specialist with over 15 years of experience transfor
 - Awarded top performance bonus for exceptional pace and accuracy, surpassing team targets consistently.
 - Earned a $14/hr. merit-based pay increase due to contributions in process optimization, risk mitigation, and data quality.
 
-**Career Break** | **Mom** | 06/2013 to 03/2016
+**Career Break** | **Mom** | ***06/2013 to 03/2016***
 -	Took a career break to establish a family.
 
 
-**Data & Audit Analyst and Loan Compliance** | **Clayton Holdings, LLC** | Denver, CO | **08/2011 - 07/2013** 
+**Data & Audit Analyst and Loan Compliance** | **Clayton Holdings, LLC** | Denver, CO | ***08/2011 - 07/2013*** 
 - Audited bankruptcy records to ensure pay histories and required dates followed both state and federal guidelines.
 - Utilized MySQL to analyze servicing pay histories, identifying discrepancies and reviewing code integrity
 during servicing payment audits.
@@ -51,7 +51,7 @@ quick adaptation.
 - Created legal fee reconciliation templates, reducing errors and improving processing time by 15%.
 
 # CERTIFICATIONS & COURSEWORK
-**Colorado Technical University** | Coding Dojo Full Stack Certification | 01/2024 – 09/2024
+**Colorado Technical University** | Coding Dojo Full Stack Certification | ***01/2024 – 09/2024***
 
 **Completed: September 2024**
 Technologies: Python, Java, JavaScript, Vue.js, React | Software Developer Certified
